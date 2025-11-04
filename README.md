@@ -13,7 +13,7 @@ Users can:
   
 ---
 
-- 👉 **[Live Demo](https://YOUR-USERNAME.github.io/mapty/)**
+- 👉 **[Live Demo](https://mapty-shubh.netlify.app/)**
 
 ---
 
